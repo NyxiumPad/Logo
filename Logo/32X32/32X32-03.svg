@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #46bcc0;
+      }
+
+      .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke: #46bcc0;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        stroke-width: .8px;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="16" y1="12.15" x2="15.84" y2="19.86" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6ac9d2"/>
+      <stop offset="1" stop-color="#37b9bd"/>
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32"/>
+  <g>
+    <path class="cls-4" d="M13.92,19.06v-5.14l4.23,6.03h1.05v-7.36s.37-.55.37-.55h-1.93l.48.54v4.73l-3.93-5.26h-1.74l.41.52v6.77l-.41.62h1.96l-.48-.62v-.27Z"/>
+    <circle class="cls-1" cx="7.43" cy="8.19" r=".22"/>
+    <circle class="cls-1" cx="24.62" cy="8.19" r=".22"/>
+    <circle class="cls-1" cx="26.73" cy="15.97" r=".22"/>
+    <circle class="cls-1" cx="24.59" cy="23.78" r=".22"/>
+    <circle class="cls-1" cx="7.41" cy="23.78" r=".22"/>
+    <circle class="cls-1" cx="5.34" cy="15.97" r=".22"/>
+    <circle class="cls-3" cx="16" cy="16" r="13.77"/>
+    <path class="cls-2" d="M7.61,20.12c-.63-1.25-.98-2.65-.98-4.14s.37-2.94,1.02-4.21"/>
+    <path class="cls-2" d="M13,7.19c.94-.31,1.94-.48,2.99-.48s2.05.17,2.99.48"/>
+    <path class="cls-2" d="M12.27,24.49c1.14.49,2.4.76,3.72.76s2.58-.27,3.72-.76"/>
+    <path class="cls-2" d="M24.19,11.49c.75,1.33,1.17,2.86,1.17,4.49s-.41,3.11-1.13,4.42"/>
+    <path class="cls-3" d="M24.19,11.49c-.34-1.08-.81-2.08-1.37-2.97-1.64-2.59-4.1-4.23-6.86-4.23s-5.26,1.67-6.9,4.29c-.6.95-1.08,2.03-1.42,3.2"/>
+    <path class="cls-3" d="M24.23,20.4c-.32,1.03-.74,1.98-1.25,2.84-1.63,2.73-4.17,4.49-7.02,4.49s-5.42-1.78-7.05-4.54c-.55-.92-.99-1.96-1.31-3.07"/>
+    <path class="cls-3" d="M12.27,24.49c-1.22-.3-2.35-.74-3.36-1.3-2.97-1.64-4.89-4.28-4.89-7.27s1.99-5.72,5.05-7.35c1.17-.63,2.5-1.1,3.94-1.38"/>
+    <path class="cls-3" d="M19.72,24.49c1.18-.29,2.28-.71,3.26-1.25,3.02-1.64,4.99-4.31,4.99-7.32s-2.04-5.78-5.15-7.4c-1.15-.6-2.45-1.05-3.84-1.32"/>
+    <ellipse class="cls-3" cx="16" cy="15.98" rx="9.38" ry="9.27"/>
+  </g>
+</svg>

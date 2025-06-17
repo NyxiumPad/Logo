@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2500 2500">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+        filter: url(#outer-glow-1);
+      }
+
+      .cls-2 {
+        stroke-width: .51px;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: none;
+        stroke: #46bcc0;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        filter: url(#outer-glow-2);
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
+        fill: #46bcc0;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-width: 59.46px;
+      }
+
+      .cls-6 {
+        filter: url(#outer-glow-5);
+      }
+
+      .cls-7 {
+        filter: url(#outer-glow-4);
+      }
+
+      .cls-4 {
+        filter: url(#outer-glow-8);
+      }
+
+      .cls-8 {
+        filter: url(#outer-glow-3);
+      }
+
+      .cls-9 {
+        filter: url(#outer-glow-6);
+      }
+
+      .cls-10 {
+        filter: url(#outer-glow-7);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1249.84" y1="962.95" x2="1238.31" y2="1537.98" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6ac9d2"/>
+      <stop offset="1" stop-color="#37b9bd"/>
+    </linearGradient>
+    <filter id="outer-glow-1" x="910.4" y="880.4" width="680" height="740" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="24.53"/>
+      <feFlood flood-color="#71cbd7" flood-opacity="1"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="outer-glow-2" x="550.42" y="607.42" width="121" height="121" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-2" stdDeviation="14.53"/>
+      <feFlood flood-color="#71cbd7" flood-opacity="1"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="outer-glow-3" x="1832.42" y="607.42" width="122" height="121" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-3" stdDeviation="14.53"/>
+      <feFlood flood-color="#71cbd7" flood-opacity="1"/>
+      <feComposite in2="blur-3" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="outer-glow-4" x="1990.42" y="1187.42" width="121" height="121" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-4" stdDeviation="14.53"/>
+      <feFlood flood-color="#71cbd7" flood-opacity="1"/>
+      <feComposite in2="blur-4" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="outer-glow-5" x="1830.42" y="1770.42" width="122" height="121" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-5" stdDeviation="14.53"/>
+      <feFlood flood-color="#71cbd7" flood-opacity="1"/>
+      <feComposite in2="blur-5" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="outer-glow-6" x="549.42" y="1770.42" width="121" height="121" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-6" stdDeviation="14.53"/>
+      <feFlood flood-color="#71cbd7" flood-opacity="1"/>
+      <feComposite in2="blur-6" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="outer-glow-7" x="394.42" y="1187.42" width="121" height="122" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-7" stdDeviation="14.53"/>
+      <feFlood flood-color="#71cbd7" flood-opacity="1"/>
+      <feComposite in2="blur-7" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="outer-glow-8" x="90.32" y="90.32" width="2320" height="2320" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-8" stdDeviation="33.89"/>
+      <feFlood flood-color="#71cbd7" flood-opacity="1"/>
+      <feComposite in2="blur-8" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect width="2500" height="2500"/>
+  <g>
+    <path class="cls-1" d="M1094.47,1478.42v-383.64l315.3,450.23h78.3l.54-548.91,26.97-41.12h-143.89l35.97,40.09v352.57l-293.08-392.66h-130.14l30.6,39.14v504.71l-30.6,46.17h146.01l-35.97-46.26v-20.33Z"/>
+    <circle class="cls-5" cx="610.29" cy="667.38" r="16.23"/>
+    <circle class="cls-8" cx="1892.83" cy="667.38" r="16.23"/>
+    <circle class="cls-7" cx="2050.44" cy="1247.4" r="16.23"/>
+    <circle class="cls-6" cx="1890.91" cy="1830.52" r="16.23"/>
+    <circle class="cls-9" cx="609.25" cy="1830.63" r="16.23"/>
+    <circle class="cls-10" cx="454.68" cy="1247.83" r="16.23"/>
+    <circle class="cls-4" cx="1250" cy="1250" r="1027.44"/>
+    <path class="cls-2" d="M623.71,1557.17c-46.97-92.93-73.4-197.79-73.4-308.74s27.39-219.6,75.96-313.77"/>
+    <path class="cls-2" d="M1026.37,592.92c70.06-23.32,145.08-35.95,223.08-35.95s153.01,12.63,223.07,35.95"/>
+    <path class="cls-2" d="M971.68,1883.15c85.14,36.5,179.07,56.73,277.77,56.73s192.63-20.23,277.77-56.73"/>
+    <path class="cls-2" d="M1861.16,913.37c55.7,99.26,87.42,213.49,87.42,335.05s-30.68,232.01-84.67,330.11"/>
+    <path class="cls-3" d="M1861.16,913.37c-25.67-80.73-60.28-155.32-102.21-221.63-122.05-193.03-306.09-315.93-511.97-315.93s-392.4,124.56-514.42,319.85c-44.47,71.14-80.55,151.68-106.28,238.99"/>
+    <path class="cls-3" d="M1863.91,1578.53c-23.59,76.54-55.19,147.69-93.43,211.66-121.82,203.79-311.03,334.69-523.51,334.69s-404.16-132.62-525.88-338.7c-40.68-68.87-73.7-145.95-97.38-229.02"/>
+    <path class="cls-3" d="M971.68,1883.15c-90.8-22.33-175.19-55.3-250.59-96.96-221.41-122.35-365.12-319.62-365.12-542.15s148.69-426.56,376.58-548.38c87.56-46.81,186.81-82.04,293.82-102.73"/>
+    <path class="cls-3" d="M1527.22,1883.14c87.87-21.6,169.74-53.18,243.26-92.95,225.55-122.02,372.44-321.19,372.44-546.16s-151.91-430.88-383.98-552.3c-85.74-44.86-182.42-78.71-286.42-98.82"/>
+    <ellipse class="cls-3" cx="1250" cy="1248.42" rx="699.68" ry="691.45"/>
+  </g>
+</svg>
